@@ -94,7 +94,7 @@ ul {
   background: radial-gradient(#eaa121, #8e4901 45%, #b86409 80%);
 }
 
-/*.candle:after {
+.candle:after {
   width: 34px;
   height: 10px;
   left: 50%;
@@ -109,7 +109,7 @@ ul {
   background: radial-gradient(rgba(0, 0, 0, 0.6), transparent 45%);
 }
 
-.thread {
+/*.thread {
   width: 6px;
   height: 36px;
   top: -17px;
