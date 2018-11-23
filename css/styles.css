@@ -11,6 +11,13 @@ html {
   font-size: 10px;
 }
 
+body {
+  font-family: 'Ubuntu', sans-serif;
+  color: #6e6e6e;
+  font-size: 1.6rem;
+  background: black;
+}
+
 /*body {
   text-align: center;
   font-family: courier;
@@ -38,12 +45,6 @@ html {
 
 
 
-body {
-	font-family: 'Ubuntu', sans-serif;
-	color: #6e6e6e;
-	font-size: 1.6rem;
-  background: black;
-}
 
 header, footer {
   display: block;
