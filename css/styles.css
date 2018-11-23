@@ -37,11 +37,11 @@ header, footer {
   display: block;
 }
 
-/*a, a:link, a:visited {
+a, a:link, a:visited {
   text-decoration: none;
 }
 
-img {
+/*img {
 	border: 0;
 }
 
