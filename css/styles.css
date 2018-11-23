@@ -33,11 +33,11 @@ body {
   height: 1.5em;
 }
 
-/*header, footer {
+header, footer {
   display: block;
 }
 
-a, a:link, a:visited {
+/*a, a:link, a:visited {
   text-decoration: none;
 }
 
