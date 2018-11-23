@@ -1,4 +1,11 @@
 @import url('https://fonts.googleapis.com/css?family=Ubuntu:400,400i,700,700i');
+*, *:before, *:after {
+  margin: 0;
+  padding: 0;
+  word-break: break-all;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
 
 /*body {
   text-align: center;
@@ -25,13 +32,6 @@
 
 
 
-*, *:before, *:after {
-	margin: 0;
-	padding: 0;
-	word-break: break-all;
-  box-sizing: border-box;
-  scroll-behavior: smooth;
-}
 
 html {
   font-size: 10px;
