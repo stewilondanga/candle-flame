@@ -54,14 +54,14 @@ ul {
   margin: 20px auto 0;
 }
 
-/*.holder {
+.holder {
   margin: 12rem auto 0;
   width: 150px;
   height: 400px;
   position: relative;
 }
 
-.holder *, .holder *:before, .holder *:after {
+/*.holder *, .holder *:before, .holder *:after {
   position: absolute;
   content: "";
 }
