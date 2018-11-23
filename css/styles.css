@@ -109,7 +109,7 @@ ul {
   background: radial-gradient(rgba(0, 0, 0, 0.6), transparent 45%);
 }
 
-/*.thread {
+.thread {
   width: 6px;
   height: 36px;
   top: -17px;
@@ -125,7 +125,7 @@ ul {
   background: linear-gradient(#d6994a, #4b232c, #121212, black, #e8bb31 90%);
 }
 
-.flame {
+/*.flame {
   width: 24px;
   height: 120px;
   left: 50%;
