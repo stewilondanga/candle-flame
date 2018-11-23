@@ -158,7 +158,7 @@ ul {
   }
 }
 
-/*@keyframes enlargeFlame {
+@keyframes enlargeFlame {
   0%, 100% {
     height: 120px;
   }
@@ -167,7 +167,7 @@ ul {
   }
 }
 
-.glow {
+/*.glow {
   width: 26px;
   height: 60px;
   border-radius: 50% 50% 35% 35%;
