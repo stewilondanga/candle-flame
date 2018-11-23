@@ -188,7 +188,7 @@ ul {
   background: rgba(0, 0, 0, 0.35);
 }
 
-/*.blinking-glow {
+.blinking-glow {
   width: 100px;
   height: 180px;
   left: 50%;
@@ -204,7 +204,7 @@ ul {
   animation: blinkIt .1s infinite;
 }
 
-@keyframes blinkIt {
+/*@keyframes blinkIt {
   50% { opacity: .8;}
 }
 
