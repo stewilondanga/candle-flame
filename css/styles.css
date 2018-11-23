@@ -45,11 +45,11 @@ img {
   border: 0;
 }
 
-/*ul {
-	list-style: none;
+ul {
+  list-style: none;
 }
 
-.center {
+/*.center {
   width: 1170px;
   margin: 20px auto 0;
 }
