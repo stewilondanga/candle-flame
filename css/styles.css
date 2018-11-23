@@ -125,7 +125,7 @@ ul {
   background: linear-gradient(#d6994a, #4b232c, #121212, black, #e8bb31 90%);
 }
 
-/*.flame {
+.flame {
   width: 24px;
   height: 120px;
   left: 50%;
@@ -142,7 +142,7 @@ ul {
   animation: moveFlame 6s linear infinite, enlargeFlame 5s linear infinite;
 }
 
-.flame:before {
+/*.flame:before {
   width: 100%;
   height: 100%;
   border-radius: 50% 50% 20% 20%;
