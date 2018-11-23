@@ -7,6 +7,10 @@
   scroll-behavior: smooth;
 }
 
+html {
+  font-size: 10px;
+}
+
 /*body {
   text-align: center;
   font-family: courier;
@@ -33,9 +37,6 @@
 
 
 
-html {
-  font-size: 10px;
-}
 
 body {
 	font-family: 'Ubuntu', sans-serif;
