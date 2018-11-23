@@ -204,11 +204,13 @@ ul {
   animation: blinkIt .1s infinite;
 }
 
-/*@keyframes blinkIt {
-  50% { opacity: .8;}
+@keyframes blinkIt {
+  50% {
+    opacity: .8;
+  }
 }
 
-.containers {
+/*.containers {
   width: 520px;
   margin: 20px auto;
 }
