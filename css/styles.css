@@ -142,14 +142,14 @@ ul {
   animation: moveFlame 6s linear infinite, enlargeFlame 5s linear infinite;
 }
 
-/*.flame:before {
+.flame:before {
   width: 100%;
   height: 100%;
   border-radius: 50% 50% 20% 20%;
   box-shadow: 0 0 15px 0 rgba(247, 93, 0, .4), 0 -6px 4px 0 rgba(247, 128, 0, .7);
 }
 
-@keyframes moveFlame {
+/*@keyframes moveFlame {
   0%, 100% {
     transform: translateX(-50%) rotate(-2deg);
   }
