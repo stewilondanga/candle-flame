@@ -61,12 +61,12 @@ ul {
   position: relative;
 }
 
-/*.holder *, .holder *:before, .holder *:after {
+.holder *, .holder *:before, .holder *:after {
   position: absolute;
   content: "";
 }
 
-.candle {
+/*.candle {
   bottom: 0;
   width: 150px;
   height: 300px;
