@@ -167,7 +167,7 @@ ul {
   }
 }
 
-/*.glow {
+.glow {
   width: 26px;
   height: 60px;
   border-radius: 50% 50% 35% 35%;
@@ -178,7 +178,7 @@ ul {
   box-shadow: 0 -40px 30px 0 #dc8a0c, 0 40px 50px 0 #dc8a0c, inset 3px 0 2px 0 rgba(0, 133, 255, .6), inset -3px 0 2px 0 rgba(0, 133, 255, .6);
 }
 
-.glow:before {
+/*.glow:before {
   width: 70%;
   height: 60%;
   left: 50%;
